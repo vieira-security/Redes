@@ -21,6 +21,7 @@ Comparação prática entre **TCP** (orientado à conexão) e **UDP** (não orie
 Implementação de um chat bidirecional utilizando sockets. 
 * **Porta utilizada:** 24000 (Baseada nos primeiros 5 dígitos do TIA). 
 * **Controle:** Encerramento automático de ambas as pontas ao receber o comando `QUIT`. 
+Link do Video: https://youtu.be/IqexY04xJy8
 
 ### 3. Desafio: AuraGuard Log Monitor (Questão 3)
 ]Aplicação inspirada no projeto de TCC **ShadowGuard**, focada em segurança defensiva. 
