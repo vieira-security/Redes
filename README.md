@@ -2,8 +2,8 @@
 Laboratorio 3 - Analise Programação de Socket UDP e TCP
 
 # Integrantes do Grupo
- Gabriel Vieira de Sousa
- Guilherme Rainho Geraldo
+ Gabriel Vieira de Sousa /
+ Guilherme Rainho Geraldo /
  Guilherme Gomes Arantes Teles
 
 # Laboratório 03 - Redes de Computadores
